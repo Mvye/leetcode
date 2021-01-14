@@ -9,3 +9,4 @@ Problems Completed So Far (In order):
 - Add Two Numbers [Worked with SinghSanity]
 - Reverse Integer [Worked with SinghSanity]
 - Generate Parentheses [Worked with SinghSanity]
+- Longest Common Prefix [Worked with SinghSanity]
