@@ -10,3 +10,4 @@ Problems Completed So Far (In order):
 - Reverse Integer [Worked with SinghSanity]
 - Generate Parentheses [Worked with SinghSanity]
 - Longest Common Prefix [Worked with SinghSanity]
+- Palindrome Number
