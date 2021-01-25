@@ -11,3 +11,4 @@ Problems Completed So Far (In order):
 - Generate Parentheses [Worked with SinghSanity]
 - Longest Common Prefix [Worked with SinghSanity]
 - Palindrome Number
+- Valid Sudoku [Worked with SinghSanity]
